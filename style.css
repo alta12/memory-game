@@ -1,0 +1,21 @@
+
+#grid img{
+    width: 100px;
+    height: 100px;
+}
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#win {
+    display: none;
+    width: 400px;
+    height: 300px;
+}
+#lose {
+    display: none;
+    width: 400px;
+    height: 300px;
+}
